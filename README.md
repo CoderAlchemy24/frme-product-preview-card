@@ -13,14 +13,13 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Screenshot
 
 ![](./desktop_screenshot.png)
-![](./mobile_screenshot.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/CoderAlchemy24/frme-product-preview-card.git](https://github.com/CoderAlchemy24/frme-product-preview-card.git)
+- Live Site URL: [https://flourishing-pudding-c514d8.netlify.app/](https://flourishing-pudding-c514d8.netlify.app/)
 
 ## My process
 
@@ -35,6 +34,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Author
 
-- Website - [@coderAlchemy24](https://www.your-site.com)
+- @coderAlchemy24
 
 
