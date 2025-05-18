@@ -12,7 +12,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![](./desktop_screenshot.png)
+![](./desktop.png)
+![](./tablet.png)
+![](./mobile.png)
 
 
 
